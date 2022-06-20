@@ -915,3 +915,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.06.20-03.04.00:047][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000005 seconds (updated 0 objects)
 [2022.06.20-03.04.00:049][  0]LogContentStreaming: Texture pool size now 1000 MB
 [2022.06.20-03.04.00:171][  0]LogSlate: Took 0.000294 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.06.20-03.04.38:455][115]LogSlate: Window 'Message Log' being destroyed
+[2022.06.20-03.04.38:458][115]LogSlate: Window 'Message Log' being destroyed
+[2022.06.20-03.04.42:407][514]LogActorFactory: Actor Factory created Cube
+[2022.06.20-03.04.43:031][563]LogActorFactory: Actor Factory created Cube
