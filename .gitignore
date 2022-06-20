@@ -72,3 +72,11 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+*.json
+FrankenMechGame/Saved/Config/Windows/UnrealInsightsSettings.ini
+FrankenMechGame/Intermediate/CachedAssetRegistry.bin
+FrankenMechGame/Saved/Config/CrashReportClient/UE4CC-Windows-995C6458441B8FE9A7E4199B27DDB5DD/CrashReportClient.ini
+FrankenMechGame/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+FrankenMechGame/Saved/Config/Windows/Engine.ini
+FrankenMechGame/Saved/Logs/FrankenMechGame-backup-2022.06.20-03.03.05.log
+FrankenMechGame/Saved/Logs/FrankenMechGame.log
